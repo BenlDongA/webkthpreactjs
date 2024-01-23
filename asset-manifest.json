@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webkthpreactjs/static/css/main.6f0d0db8.css",
+    "main.js": "/webkthpreactjs/static/js/main.b35f4bc8.js",
+    "static/media/img1.png": "/webkthpreactjs/static/media/img1.052690e2c8f604449798.png",
+    "static/media/fed1.jpg": "/webkthpreactjs/static/media/fed1.34dbd79ee0f78b2a61e2.jpg",
+    "index.html": "/webkthpreactjs/index.html",
+    "main.6f0d0db8.css.map": "/webkthpreactjs/static/css/main.6f0d0db8.css.map",
+    "main.b35f4bc8.js.map": "/webkthpreactjs/static/js/main.b35f4bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0d0db8.css",
+    "static/js/main.b35f4bc8.js"
+  ]
+}
